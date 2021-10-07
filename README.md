@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramsay2" alt="ramsay2" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Ramsay2)
+
 - 🌱 I’m currently learning **Android Development**
 
 - 👯 I’m looking to collaborate on **Android Development Projects**
 
 - 🤝 I’m looking for help with **Data Structure**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Ramsay2](https://github.com/Ramsay2)
 
 - ⚡ Fun fact **I like playing chess and read about marketing strategy. stratiges.**
 

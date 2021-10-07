@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sachin Sharma</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramsay2&label=Profile%20views&color=0e75b6&style=flat" alt="ramsay2" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramsay2" alt="ramsay2" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Ramsay2)
 
 - 🌱 I’m currently learning **Android Development**
 
 - 👯 I’m looking to collaborate on **Android Development Projects**
 
 - 🤝 I’m looking for help with **Data Structure**
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Ramsay2)
 
 - ⚡ Fun fact **I like playing chess and read about marketing strategy. stratiges.**
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramsay2&label=Profile%20views&color=0e75b6&style=flat" alt="ramsay2" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramsay2" alt="ramsay2" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

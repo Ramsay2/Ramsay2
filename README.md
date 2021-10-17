@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **Android Development Projects**
 
 - 🤝 I’m looking for help with **Data Structure**
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Ramsay2)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Ramsay2?tab=repositories)
 -    My portfolio [Here](https://portfoliosachinsharma.dorik.io/)
 
 - ⚡ Fun fact **I like playing chess and read about marketing strategy.**
